@@ -1,7 +1,7 @@
-﻿# ShoppingIt
-# Puddle E-Commerce Platform
+﻿# ShopIt
+# ShopIt E-Commerce Platform
 
-Puddle is a full-featured e-commerce platform built using Django. This project enables user authentication, product listings, and category management. It also implements dynamic item filtering, user-specific actions like item creation, editing, and deletion, and integrates Tailwind CSS for a responsive design.
+ShopIt is a full-featured e-commerce platform built using Django. This project enables user authentication, product listings, and category management. It also implements dynamic item filtering, user-specific actions like item creation, editing, and deletion, and integrates Tailwind CSS for a responsive design.
 
 ## Features
 
@@ -28,8 +28,8 @@ Puddle is a full-featured e-commerce platform built using Django. This project e
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/puddle.git
-cd puddle
+git clone https://github.com/yourusername/ShopIt.git
+cd ShopIt
 ```
 
 ### Set Up Virtual Environment
@@ -86,7 +86,7 @@ Navigate to `http://127.0.0.1:8000/admin` and log in with the superuser credenti
 ## File Structure
 
 ```plaintext
-puddle/
+ShopIt/
 ├── core/
 │   ├── migrations/
 │   ├── static/
@@ -109,7 +109,7 @@ puddle/
 │   ├── tests.py
 │   ├── urls.py
 │   ├── views.py
-├── puddle/
+├── ShopIt/
 │   ├── __init__.py
 │   ├── asgi.py
 │   ├── settings.py
