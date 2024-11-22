@@ -44,6 +44,6 @@ ShopIt is a robust e-commerce platform designed to deliver seamless user experie
    ```bash
    python manage.py runserver
    ```
-5. Access the application at `[http://127.0.0.1:8000](https://arnavt.pythonanywhere.com/)`.
+5. Access the application at `https://arnavt.pythonanywhere.com/`.
 
 ---
