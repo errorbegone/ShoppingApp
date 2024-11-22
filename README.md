@@ -1,9 +1,6 @@
 ﻿# ShoppingApp
 ---
 
-# ShopIt - Full-Featured E-Commerce Platform
-
-**Tech Stack**: Django (Backend & Frontend), Tailwind CSS (Styling), HTML
 
 ## Project Description
 
